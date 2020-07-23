@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chat.png</file>
+        <file>images/close_1.png</file>
+        <file>images/close_2.png</file>
+        <file>images/file_2.png</file>
+        <file>images/head.png</file>
+        <file>images/logo.png</file>
+        <file>images/min.png</file>
+        <file>images/setting.png</file>
+        <file>images/updown.png</file>
+        <file>images/bold.png</file>
+        <file>images/clean.png</file>
+        <file>images/color.png</file>
+        <file>images/save.png</file>
+        <file>images/underline.png</file>
+        <file>images/file_1.png</file>
+        <file>images/italic.png</file>
+        <file>images/more.png</file>
+        <file>images/down-arrow_1.png</file>
+        <file>images/chat_icon.png</file>
+        <file>images/head_2.png</file>
+        <file>images/auto.png</file>
+        <file>images/down-arrow.png</file>
+        <file>images/up-arrow.png</file>
+    </qresource>
+</RCC>
